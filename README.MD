@@ -12,6 +12,6 @@ Run this command to run dev environment.
 
 Run this command to build de App to run in production.
 
-#License
+# License
 
 MIT.
